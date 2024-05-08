@@ -1,1 +1,5 @@
-# DATA3000-Project
+# DATA 3000 Project
+Welcome to our project for DATA 3000. The goal of this project is to predict the price of an apartment in the United States based on a multitude of factors from our dataset. Our dataset, titled "[Apartment for Rent Classified](https://archive.ics.uci.edu/dataset/555/apartment+for+rent+classified)" from the UC Irvine Machine Learning Repository, contains 100 thousand rows of data for apartments across the US, containing features such as square footage, number of bedrooms/bathrooms, amenities, whether pets are allowed, and much more. 
+
+This repository contains our code file for cleaning the dataset, creating a random forest model, training and testing it, and evaluating the results. We ran our code through Google CoLab using Python, but it should work through other platforms as well. To import the dataset, we installed the ucimlrepo package and used the code provided by UC Irvine, which can be found on the linked page. We also imported and used the sklearn, xgboost, pandas, and numpy packages. We already had these installed, but if you do not, you can easily add the other installs into the first cell of our code file.
+
